@@ -1,0 +1,6 @@
+C:\git\Katas\Refactoring\CS\Algorithm\Algorithm\bin\Debug\Algorithm.dll
+C:\git\Katas\Refactoring\CS\Algorithm\Algorithm\bin\Debug\Algorithm.pdb
+C:\git\Katas\Refactoring\CS\Algorithm\Algorithm\obj\Debug\Algorithm.csprojResolveAssemblyReference.cache
+C:\git\Katas\Refactoring\CS\Algorithm\Algorithm\obj\Debug\Algorithm.csproj.CoreCompileInputs.cache
+C:\git\Katas\Refactoring\CS\Algorithm\Algorithm\obj\Debug\Algorithm.dll
+C:\git\Katas\Refactoring\CS\Algorithm\Algorithm\obj\Debug\Algorithm.pdb
